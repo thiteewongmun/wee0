@@ -1,19 +1,12 @@
+<!DOCTYPE html>
 <html>
 <head>
-<style>
-code {
-  font-family: Consolas,"courier new";
-  color: crimson;
-  background-color: #f1f1f1;
-  padding: 2px;
-  font-size: 105%;
-}
-</style>
+<title>Page Title</title>
 </head>
 <body>
 
-<p>The HTML <code>button</code> tag defines a clickable button.</p>
-<p>The CSS <code>background-color</code> property defines the background color of an element.</p>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
 
 </body>
 </html>
