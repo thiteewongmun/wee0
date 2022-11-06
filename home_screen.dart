@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_web3/ethereum.dart';
 import 'package:flutter_web3/ethers.dart';
 import 'package:bank_screen.dart';
-import 'package:election_screen.dart';
-import 'package:will_screen.dart';
+//import 'package:election_screen.dart';
+//import 'package:will_screen.dart';
 //import 'package:flutter_wed3/flutter_wed3.dart';
 import 'package:helpers.dart';
 
